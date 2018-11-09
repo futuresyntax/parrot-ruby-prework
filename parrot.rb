@@ -2,6 +2,6 @@
 # returns the phrase
 
 def parrot(phrase = "Squawk")
-  returns("phase")
+  returns("phrase")
   puts("phrase")
 end
